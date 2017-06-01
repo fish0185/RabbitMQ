@@ -1,0 +1,5 @@
+download erlang runtime 64 bit then install rabbit mq server
+
+default port 15672 or 5672
+remember run fllowing command to enable web management, default u/p guest/guest
+D:\Program Files\RabbitMQ Server\rabbitmq_server-3.6.10\sbin>rabbitmq-plugins enable rabbitmq_management
