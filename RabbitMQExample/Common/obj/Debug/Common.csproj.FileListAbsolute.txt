@@ -1,0 +1,7 @@
+D:\Code\RabbitMQExample\RabbitMQExample\Common\bin\Debug\Common.dll
+D:\Code\RabbitMQExample\RabbitMQExample\Common\bin\Debug\Common.pdb
+D:\Code\RabbitMQExample\RabbitMQExample\Common\bin\Debug\Newtonsoft.Json.dll
+D:\Code\RabbitMQExample\RabbitMQExample\Common\bin\Debug\Newtonsoft.Json.xml
+D:\Code\RabbitMQExample\RabbitMQExample\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Code\RabbitMQExample\RabbitMQExample\Common\obj\Debug\Common.dll
+D:\Code\RabbitMQExample\RabbitMQExample\Common\obj\Debug\Common.pdb

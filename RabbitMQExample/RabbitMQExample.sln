@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.26430.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQExample", "RabbitMQExample\RabbitMQExample.csproj", "{1F22F6EC-DF74-4CBA-9B99-C4D31EC13A3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{EE4AD7F1-C83E-4EB5-8F0E-C44E0CDD3567}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Standard Queue", "Standard Queue", "{FE0412CA-87DB-4A1E-B1A8-A204D5B8B6A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardQueue", "StandardQueue\StandardQueue.csproj", "{EDFEE830-3667-4173-8DF6-7683969778E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +21,19 @@ Global
 		{1F22F6EC-DF74-4CBA-9B99-C4D31EC13A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F22F6EC-DF74-4CBA-9B99-C4D31EC13A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F22F6EC-DF74-4CBA-9B99-C4D31EC13A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4AD7F1-C83E-4EB5-8F0E-C44E0CDD3567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4AD7F1-C83E-4EB5-8F0E-C44E0CDD3567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4AD7F1-C83E-4EB5-8F0E-C44E0CDD3567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4AD7F1-C83E-4EB5-8F0E-C44E0CDD3567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFEE830-3667-4173-8DF6-7683969778E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFEE830-3667-4173-8DF6-7683969778E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFEE830-3667-4173-8DF6-7683969778E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFEE830-3667-4173-8DF6-7683969778E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EDFEE830-3667-4173-8DF6-7683969778E6} = {FE0412CA-87DB-4A1E-B1A8-A204D5B8B6A1}
 	EndGlobalSection
 EndGlobal

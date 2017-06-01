@@ -1,0 +1,12 @@
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\bin\Debug\StandardQueue.exe.config
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\bin\Debug\StandardQueue.exe
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\bin\Debug\StandardQueue.pdb
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\bin\Debug\Common.dll
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\bin\Debug\Newtonsoft.Json.dll
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\bin\Debug\RabbitMQ.Client.dll
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\bin\Debug\Common.pdb
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\bin\Debug\Newtonsoft.Json.xml
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\bin\Debug\RabbitMQ.Client.xml
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\obj\Debug\StandardQueue.csprojResolveAssemblyReference.cache
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\obj\Debug\StandardQueue.exe
+D:\Code\RabbitMQExample\RabbitMQExample\StandardQueue\obj\Debug\StandardQueue.pdb
