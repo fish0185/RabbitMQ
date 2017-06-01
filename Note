@@ -1,0 +1,7 @@
+Important class 
+IModel AMQP data channel and provides the AMQP operations
+IConnection Represents an AMQP connection
+ConnectionFactory = constructs IConnection instance
+
+ConnectionParameters Configures a connectionFactory
+QueuingBasicConsumer Receives messages deliverd from the server
