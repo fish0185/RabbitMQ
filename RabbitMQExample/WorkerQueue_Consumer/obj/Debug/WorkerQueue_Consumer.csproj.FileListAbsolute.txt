@@ -1,0 +1,12 @@
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\bin\Debug\WorkerQueue_Consumer.exe.config
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\bin\Debug\WorkerQueue_Consumer.exe
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\bin\Debug\WorkerQueue_Consumer.pdb
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\bin\Debug\Common.dll
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\bin\Debug\RabbitMQ.Client.dll
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\bin\Debug\Newtonsoft.Json.dll
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\bin\Debug\Common.pdb
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\bin\Debug\RabbitMQ.Client.xml
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\bin\Debug\Newtonsoft.Json.xml
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\obj\Debug\WorkerQueue_Consumer.csprojResolveAssemblyReference.cache
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\obj\Debug\WorkerQueue_Consumer.exe
+D:\Code\RabbitMQExample\RabbitMQExample\WorkerQueue_Consumer\obj\Debug\WorkerQueue_Consumer.pdb
