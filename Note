@@ -5,3 +5,7 @@ ConnectionFactory = constructs IConnection instance
 
 ConnectionParameters Configures a connectionFactory
 QueuingBasicConsumer Receives messages deliverd from the server
+
+
+By default, RabbitMQ will send each message to the next consumer, in sequence. On average every consumer will get the same number 
+of messages. This way of distributing messages is called round-robin. Try this out with three or more workers
