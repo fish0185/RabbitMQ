@@ -38,3 +38,18 @@ message.
 
 Ready shows the number of messages that are available to be delivered.
 Unacked are the number of messages for which the server is waiting for acknowledgement.
+
+A connection is a TCP connection between your application and the RabbitMQ broker. A channel is a virtual connection inside a connection.
+
+A binding is a link that you set up to bind a queue to an exchange.
+
+The routing key is a message attribute. The exchange might look at this key when deciding how to route the message to queues (depending on
+exchange type).
+
+In RabbitMQ, there are four different types of exchanges that routes the message differently using different parameters and bindings setups.
+
+A direct exchange delivers messages to queues based on a message routing key. The routing key is a message attribute added into the message
+header by the producer.
+
+The direct exchange type is useful when you would like to distinguish messages published to the same exchange usng a simple string identifier
+
