@@ -30,3 +30,11 @@ The core idea in the messaging model in RabbitMQ is that the producer never send
 quite often the producer doesn't even know if a message will be delivered to any queue at all.
 
 An exchange is a very simple thing. On one side it receives messages from producers and the other side it pushes them to queues.
+
+Types of exchanges
+Direct: A direct exchange delivers messages to queues based on a message routing key.In a direct exchange, the message are routed to the
+queues whose binding key exactly matches the routing key of the
+message.
+
+Ready shows the number of messages that are available to be delivered.
+Unacked are the number of messages for which the server is waiting for acknowledgement.
