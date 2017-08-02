@@ -75,3 +75,6 @@ havetoo many unacknowledged messages you will run out of RAM. An
 efficient way tolimit unacknowledged messages is to limit how many
 messages your clientsprefetch
 
+RabbitMQ connections are a lot more resource heavy than channels.
+Connections should be long lived, and channels can be opened and closed
+more frequently.
