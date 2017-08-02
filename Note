@@ -53,3 +53,11 @@ header by the producer.
 
 The direct exchange type is useful when you would like to distinguish messages published to the same exchange usng a simple string identifier
 
+The default exchange is a pre-declared direct exchange with no name, usually referred by the empty string "". When you use the default exchange, your 
+message will be delivered to the queue with a name equal to the routing key of the message. Every queue is automatically bound to the default 
+exchange with a routing key which is the same as the queue name.
+
+Topic exchange
+topic exchanges route messages  to queues based on wildcard matches between the routing key and something called tthe routing pattern
+specified by the queue binding. Messages are routed to one or many queues based on a matching between a message routing key and this pattern.
+
