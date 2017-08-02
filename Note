@@ -78,3 +78,10 @@ messages your clientsprefetch
 RabbitMQ connections are a lot more resource heavy than channels.
 Connections should be long lived, and channels can be opened and closed
 more frequently.
+
+You should ideally only have one connection per process, and
+then use a channel per thread in your application.
+
+Generally the number of channels should be
+larger, but not much larger than number of connections
+
