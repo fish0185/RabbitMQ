@@ -70,3 +70,8 @@ If no matching queue can be found for the message, the message wil be silently d
 RabbitMQ provides an AMQP extension known as the Dead Letter Exchange - The dead letter exchange provides functionality to capture message
 that are not deliverable.
 
+All unacknowledged messages have to reside in RAM on the servers. If you
+havetoo many unacknowledged messages you will run out of RAM. An
+efficient way tolimit unacknowledged messages is to limit how many
+messages your clientsprefetch
+
