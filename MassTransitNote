@@ -1,0 +1,7 @@
+MassTransit is a service bus, and a service bus is designed to move messages. 
+The first of which is known as the Hollywood principle -- "Don't call us, we'll call you."
+
+Once the bus is configured and running, the receivers are called by the framework as messages are received.
+The transport is at the lowest level and is closest to the actual message broker. The transport communicates with the broker,
+responsible for sending and receiving messages
+
